@@ -9,7 +9,6 @@ Use this memory calculator to check MySQL memory allocation based on configurati
     user=dbuser
     password=dbpassword
    ```
-3. 
 
 ## Usage
 1. Clone the repo
